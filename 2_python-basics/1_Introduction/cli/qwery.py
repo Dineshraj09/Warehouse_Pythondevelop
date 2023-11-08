@@ -63,7 +63,6 @@ if user_choice ==2:
              print(f"order has been placed,{itemname}:{num_item_name}")
     else:
          pass
-    
 if user_choice == 3:
      pass
 
